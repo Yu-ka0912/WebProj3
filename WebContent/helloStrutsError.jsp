@@ -5,10 +5,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>HelloStruts</title>
+<title>HelloStrutsError</title>
 </head>
 <body>
-	<h1>HelloStruts2!</h1>
+	<h1>エラーが発生しました</h1>
 	<br>
 	<h3>
 		<s:property value="result" />
